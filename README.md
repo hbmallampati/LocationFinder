@@ -1,12 +1,11 @@
 Location Finder
       
-![Screenshot_20230122-142927](https://user-images.githubusercontent.com/98439391/224525238-8a872705-7878-4fe0-9410-b48261f71dde.jpg)
 
 
 ![Screenshot_20230122-143106](https://user-images.githubusercontent.com/98439391/224525243-823505ad-b22c-4105-bf3b-3b8c0e1557aa.jpg)
 
 
-![Screenshot_20230122-143111](https://user-images.githubusercontent.com/98439391/224525248-63fa9772-3675-46b3-8818-a33f5d097899.jpg)
+
 
 
 ![Screenshot_20230122-143122](https://user-images.githubusercontent.com/98439391/224525258-1428d0a3-046b-4253-98cf-e84683b2d64c.jpg)
